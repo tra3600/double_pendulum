@@ -1,0 +1,2 @@
+programme en C++ qui simule le mouvement d'un pendule double dans le temps en lui rentrant en entrée la longueur des 2 pendules et les angles par rapport a la verticale et qui en retour dessine le mouvement des 2 pendules
+ 
